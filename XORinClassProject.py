@@ -10,6 +10,7 @@ characters = [
 ]
 
 
+
 # use this method to encode an alphabet character into a binary string
 def encode(character):
     charIndex = characters.index(character)
